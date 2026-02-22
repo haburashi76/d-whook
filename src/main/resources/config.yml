@@ -1,0 +1,6 @@
+webhook-url: #  Write in here
+sender-name: #  Write in here
+server-start-message: #  Write in here
+server-stop-message: #  Write in here
+player-join-message: #  Write in here ( $name$ -> joined player's name )
+player-join-sound: # ex) BLOCK_STONE_BREAK

@@ -1,0 +1,12 @@
+name: joinSound
+version: ''
+main: io.github.haburashi76.d_whook.DWhookPlugin
+api-version: '1.21'
+commands:
+  dwhook:
+    permission: io.github.haburashi76.dwhook
+permissions:
+  io.github.haburashi76.dwhook:
+    default: op
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib-jdk8:2.0.0
