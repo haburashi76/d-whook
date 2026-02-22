@@ -3,5 +3,3 @@
 /.idea/
 /build/
 /build/classes/kotlin/main/
-/gradle/wrapper/gradle-wrapper.jar
-/gradle/wrapper/gradle-wrapper.properties
