@@ -1,6 +1,16 @@
+#  $Y$ -> Year
+#  $M$ -> Month
+#  $D$ -> Day
+#  $H$ -> Hour
+#  $Min$ -> Minute
+#  $S$ -> Second
+#  ex) [$Y$/$M$/$D$ | $H$:$Min$:$S$ INFO]: ~~ -> [2026/02/25 | 15:05:00 INFO]: ~~
+
 webhook-url: #  Write in here
 sender-name: #  Write in here
 server-start-message: #  Write in here
 server-stop-message: #  Write in here
 player-join-message: #  Write in here ( $name$ -> joined player's name )
-player-join-sound: # ex) BLOCK_STONE_BREAK
+player-join-sound: # ex) block.stone.break
+player-leave-message: #  Write in here ( $name$ -> left player's name )
+player-leave-sound: # ex) block.stone.break

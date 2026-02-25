@@ -1,5 +1,5 @@
-name: joinSound
-version: ''
+name: D-Whook
+version: '1.0.1'
 main: io.github.haburashi76.d_whook.DWhookPlugin
 api-version: '1.21'
 commands:
